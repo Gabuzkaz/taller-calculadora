@@ -1,7 +1,4 @@
 class Calculadora:
-    
-    #Probando probando un dos un dos
-
     def suma(self, a, b):
         return a + b
 
